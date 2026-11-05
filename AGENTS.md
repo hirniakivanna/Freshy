@@ -21,3 +21,9 @@
 ## Continuity
 
 Read and update the private Freshy Memory Bank through the connected Library when available. Its canonical identity is libfile_0d29500c77d881919d72affdeee0803d. Do not copy its business contents into this public repository. Record dated task outcomes, links, unchecked work, founder questions, and GitHub-only branch status there. Use Recommendation: for proposed answers to gaps, not invented facts.
+
+## Customer profile and writing requirements
+
+Before drafting any Freshy advice, copy, or customer-facing material, read the latest private Freshy-Customer-Profile.md from Library (libfile_5216b75fd11481918a5fb178a2860b23), or ask for it if unavailable. Do not invent its contents or assume every external AI has file access; provide the profile as project context when using another AI.
+
+Use concise professional plain language with correct grammar and syntax. Use short labels and two-sentence bullets for profiles, prefer quantified evidence, quote founder answers where useful, and mark guesses with 🔎. Label proposed gap-fillers “🔎 Recommendation:” and omit unrelated business-model content. Separate founder targets from validated customer facts and achieved product outcomes. No fixed word limit has been supplied. Keep the private profile contents out of this public repository and website; this instruction file is outside public/.
